@@ -1,0 +1,5 @@
+La relación entre estos tres pilares reside en la integridad y la trazabilidad. 
+El uso responsable de la información garantiza que los datos que alimentan la opinión pública sean veraces, lo cual es fundamental para una participación ciudadana sana y democrática. 
+Por otro lado, en el ámbito técnico, herramientas como Git permiten organizar el trabajo mediante un control de versiones que asegura la transparencia: sabemos quién hizo qué, cuándo y por qué. 
+Así como un ciudadano responsable verifica una noticia antes de compartirla, un desarrollador utiliza Git para asegurar que su aporte sea coherente, esté documentado y no afecte negativamente el proyecto colectivo. 
+En ambos casos, se busca construir un entorno (social o técnico) basado en la confianza y el orden.
