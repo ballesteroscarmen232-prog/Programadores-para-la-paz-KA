@@ -1,0 +1,6 @@
+Reflexión de la semana
+El uso responsable de la información es el pilar de una ciudadanía digital sana; sin datos verídicos, la participación ciudadana se vuelve vulnerable a la manipulación.
+Cuando un ciudadano se informa correctamente, puede intervenir en debates públicos con argumentos sólidos, fortaleciendo la democracia. 
+Esta misma responsabilidad se traslada al trabajo técnico mediante herramientas como Git.
+En el desarrollo colaborativo, Git permite organizar el trabajo de forma transparente y rastreable; cada cambio ("commit") debe ser claro y justificado, similar a cómo una noticia debe ser verificada antes de publicarse. 
+Así, la ética en la información y el orden técnico en el control de versiones convergen en un mismo fin: construir conocimiento colectivo de manera honesta, organizada y confiable para la sociedad.
