@@ -1,0 +1,3 @@
+REFLEXIÓN
+
+Una plataforma tecnológica que promueve la participación ciudadana debe contar con una base de datos para almacenar la información de forma organizada. La autenticación de usuarios permite controlar quién puede acceder a determinadas funciones y protege la privacidad de la comunidad. También es importante proteger los datos sensibles para evitar accesos no autorizados y posibles riesgos de seguridad. Una buena interfaz facilita que los usuarios registren y consulten información de manera sencilla. La combinación de estas herramientas mejora la organización, la transparencia y el seguimiento de las actividades comunitarias, generando confianza entre los participantes.
